@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    
+    text-align: center;
+}
+
+ strong {
+    color: green;
+    text-decoration: underline;
+}
+
+
+ol, ul {
+    border: 1px solid red;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+
